@@ -6,7 +6,7 @@
 - [Isoliner](https://github.com/Valery35/qgis-isoliner) - геостатистика, кригинг, гидрогеология, геологическая модель, разрезы
 - [Isoliner3D](https://github.com/Valery35/qgis-isoliner3d) - трёхмерная и воксельная визуализация
 - [PlanetX](https://github.com/Valery35/planetx) - глобус в QGIS
-- [PlanetX Lite](https://github.com/Valery35/planetx-lite) - глобус PlanetX как отдельная программа без QGIS (Windows, Linux, macOS, веб-версия)
+- [PlanetX Lite](https://github.com/Valery35/planetx-lite) - глобус PlanetX как отдельная программа без QGIS (Windows, Linux, macOS, веб-версия, в том числе для телефонов)
 - [Topoliner](https://github.com/Valery35/topoliner) - топология полигональных и линейных покрытий
 
 ## Поддержать разработку
